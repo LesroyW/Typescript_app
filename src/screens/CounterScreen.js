@@ -16,7 +16,6 @@ const reducer = (state, action) => {
     }
 
 };
-n 
 
 const CounterScreen = () => {
 
